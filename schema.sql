@@ -38,22 +38,22 @@ CREATE TABLE salaries (
   PRIMARY KEY (emp_no)
 );
 
--- Creating emp department table
+-- Creating employee department v7 (fixing order of col, primary keys) table
 CREATE TABLE dept_employees (
-  dept_no VARCHAR(4) NOT NULL,
   emp_no INT NOT NULL,
+  dept_no VARCHAR(4) NOT NULL,
   from_date DATE NOT NULL,
   to_date DATE NOT NULL,
   FOREIGN KEY (emp_no) REFERENCES employees (emp_no),
-  PRIMARY KEY (emp_no)
+  PRIMARY KEY (emp_no, dept_no)
 );
 
--- Creating titles table
+-- Creating titles v3 table
 CREATE TABLE titles (
   emp_no INT NOT NULL,
   title VARCHAR NOT NULL,
   from_date DATE NOT NULL,
   to_date DATE NOT NULL,
   FOREIGN KEY (emp_no) REFERENCES employees (emp_no),
-  PRIMARY KEY (emp_no)
+  PRIMARY KEY (emp_no, title, from_date)
 );
