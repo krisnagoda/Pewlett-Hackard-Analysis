@@ -6,7 +6,17 @@ Our Pewlett Hackard workforce is aging, and we expect thousands of employees to 
 
 ## Results: 
 
-Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+### Retiring Titles 
+
+![This is an image](https://github.com/krisnagoda/Pewlett-Hackard-Analysis/blob/6361128f0f7561142e1c7186291cdd82be57d79b/Images/retiring_titles.png)
+
+ - We expect over 90k Pewlett Hackard to retire in the next year
+ - Approximately 1/3 of these potential retirees are Senior Engineers  
+
+### Mentorship Program
+
+ - point 1
+ - point2
 
 ## Summary: 
  - Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
