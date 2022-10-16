@@ -13,13 +13,11 @@ Our Pewlett Hackard workforce is aging, and we expect thousands of employees to 
  - We expect over 90k Pewlett Hackard to retire in the next year
  - Approximately 1/3 of these potential retirees are Senior Engineers  
 
-### Mentorship Program
-
- - point 1
- - point2
-
 ## Summary: 
- - Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
- - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
- - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+Pewlett Hackard will need to start hiring and mentoring programs as soon as possible. This upcoming "silver tsunami" could leave our organization with a leadership and domain knowledge vacuum. Next steps:
+
+ - Group mentorship program candidates by title to understand gaps based on role
+ - Share data with leadership and talent acquisition teams as soon as possible, limiting risk
+
 
