@@ -2,7 +2,7 @@
 
 ## Overview of the analysis: 
 
-Our Pewlett Hackard workforce is aging, and we expect thousands of employees to retire over the next few years.  This analysis is focused on understanding the number of retiring employees by title and the remaining employees eligible for our mentorship program. Understanding these data points will help us define the next steps to ensure Pewlett Hackard thrives for decade to come.
+Our Pewlett Hackard workforce is aging, and we expect thousands of employees to retire over the next few years.  This analysis is focused on understanding the number of retiring employees by title and the remaining employees eligible for our mentorship program. Understanding these data points will help us define the next steps to ensure Pewlett Hackard thrives for decades to come.
 
 ## Results: 
 
