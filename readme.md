@@ -11,7 +11,7 @@ Our Pewlett Hackard workforce is aging, and we expect thousands of employees to 
 ![This is an image](https://github.com/krisnagoda/Pewlett-Hackard-Analysis/blob/6361128f0f7561142e1c7186291cdd82be57d79b/Images/retiring_titles.png)
 
  - We expect over 90k Pewlett Hackard to retire in the next year
- - Approximately 1/3 of these potential retirees are Senior Engineers  
+ - Approximately 2/3 of these potential retirees are split between Senior Engineers and Senior Staff  
 
 ## Summary: 
 
